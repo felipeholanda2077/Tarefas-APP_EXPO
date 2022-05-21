@@ -3,8 +3,8 @@
 
 <p align="center">----------------------------------</p>
 
-Como abrir o projeto
+  <h3 align="center">Como abrir o projeto</h3>
 
-Expo Start
+  <h3 align="center">Expo Start</h3>
 
 <p align="center">----------------------------------</p>
